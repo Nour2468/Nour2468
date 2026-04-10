@@ -39,8 +39,4 @@
 
 ---
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour2468&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
 > *"Build things that matter. Ship fast. Learn always."*
